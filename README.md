@@ -1,19 +1,36 @@
-# simplifyhit
-Repository for tools to simplify human- Interface Technologies (HIT)
+---
 
+# **simplifyhit**
 
-## Data Teams code management interface
+**Repository for tools to simplify Human-Interface Technologies (HIT)**
 
-[HIcode](https://github.com/nmc-costa/HIcode) : HIcode is an impactful integration code base that harmonizes data teams, fostering seamless collaboration. With HIcode, developers unlock the potential for a more robust, sustainable and agnostic software system, maximizing project success and driving innovation. Embrace symplification! 🚀 #HIcode
+---
+
+## 💠 Data Teams Code Library Interface
+
+> [**HITnode**](https://github.com/nmc-costa/HITnode/) is a standards-first, modular codebase designed to accelerate ML and GenAI development through reusable, composable nodes. It bridges the gap between innovation and implementation—making intelligent software development simpler, faster, and more sustainable.
+> **Build with precision. Scale with purpose.** 🚀 #HITnode #CRISPMLQ #ModularAI
 
 <p align="center">
-<img src="https://github.com/nmc-costa/HIcode/raw/main/docs/logo_1_small.png" width="50">
+  <img src="https://github.com/nmc-costa/HITnode/raw/main/docs/images/logo_1_small.png" width="50">
 </p>
 
+---
 
-## Human-Self Interface technology
-How to prime our mental interface to support trainability of self-regulation through neurofeedback technology. 
+## 🔧 Data Teams Code Management Interface
 
-[NeuroPrime](https://github.com/nmc-costa/neuroprime): A open-source framework for real-time HCI/BCI. Specifically developed for advanced research of human-computer assisted self-regulation of Neurofeedback.
+> [**HIcode**](https://github.com/nmc-costa/HIcode) is a powerful integration framework that harmonizes data teams and promotes seamless collaboration. By adopting HIcode, developers unlock the foundation for robust, agnostic software systems—maximizing innovation and long-term success.
+> **Embrace symplification.** 🚀 #HIcode
 
+<p align="center">
+  <img src="https://github.com/nmc-costa/HIcode/raw/main/docs/logo_1_small.png" width="50">
+</p>
+
+---
+
+## 🧠 Human–Self Interface Technology
+
+> [**NeuroPrime**](https://github.com/nmc-costa/neuroprime) is an open-source framework for real-time Human–Computer and Brain–Computer Interfaces (HCI/BCI), developed for advanced research on neurofeedback-based self-regulation. It enables intelligent self-training tools that prime mental performance and adaptability.
+
+---
 
