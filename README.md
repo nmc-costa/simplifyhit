@@ -1,5 +1,3 @@
----
-
 # **simplifyhit**
 
 **Repository for tools to simplify Human-Interface Technologies (HIT)**
