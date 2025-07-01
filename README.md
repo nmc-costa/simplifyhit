@@ -6,7 +6,7 @@
 
 ## 🎯 VISION & PRINCIPLE 
 
-> Repository for tools to simplify Human-Interface Technologies (HIT) - simplifyhit, inc
+> Repository for tools to simplify Human-Interface Technologies (HIT) - “simplifyhit”™
 
 ---
 
