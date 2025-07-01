@@ -1,3 +1,7 @@
+© 2022 nmc-costa. All Rights Reserved.
+“simplifyhit”™ is a trademark of nmc-costa.
+
+
 # **simplifyhit**
 
 ## 🎯 VISION & PRINCIPLE 
