@@ -1,6 +1,6 @@
 # **simplifyhit**
 
-**Repository for tools to simplify Human-Interface Technologies (HIT)**
+## 🎯 VISION & PRINCIPLE: Repository for tools to simplify Human-Interface Technologies (HIT) - simplifyhit, inc**
 
 ---
 
