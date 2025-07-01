@@ -1,18 +1,15 @@
-© 2025 nmc‑costa. All Rights Reserved.
+© 2021 nmc‑costa. All Rights Reserved.
 “simplifyhit”™ is a trademark of nmc‑costa.
 
-# Roadmap
+# simplifyhit: Vision & Roadmap
 
-## Past
-- **v1.0 Launch (Q1 2021):** Core component library + starter templates
+## Vision
+Empower teams and individuals to build and simplify human-interface technologies.
 
-## Upcoming
-- **v1.1 (Q4 2025):** Theming system + documentation portal
-- **v2.0 (Q1 2026):** Plugin architecture + community marketplace
+## Mission
+Provide lightweight toolkits and clear guidelines that streamline prototyping, development, and deployment of intuitive interfaces.
 
-## Ongoing
-- Develop and refine the landing page
-- Collect user feedback and iterate quickly
-- Maintain regular updates and support
-
-_last updated: July 1, 2025_
+## Principles
+- **Ease of Use:** Straightforward APIs and minimal setup.
+- **Flexibility:** Modular components adapt to any project.
+- **Reusability:** Promote “simplification before optimization.”
