@@ -1,13 +1,14 @@
 © 2021 nmc-costa. All Rights Reserved.
 “simplifyhit”™ is a trademark of nmc-costa.
 
-## Roadmap
+# Roadmap
 
-v1.0 Launch (Q1 2021): Core component library + starter templates.
+## Past
+- **v1.0 Launch (Q1 2021):** Core component library + starter templates
 
-Ongoing: 
-- Landing page.
-- Theming system and documentation portal.
-- User feedback loops and regular updates.
+## Ongoing
+- Develop and refine the landing page
+- Collect user feedback and iterate quickly
+- Maintain regular updates and support
 
-Last updated: July 1, 2025
+_last updated: July 1, 2025_
