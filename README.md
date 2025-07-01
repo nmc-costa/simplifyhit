@@ -4,9 +4,9 @@
 
 # **simplifyhit**
 
-## 🎯 VISION & PRINCIPLE 
+> Repository for tools of  “simplifyhit”™ :  Empower teams and individuals to build and simplify human-interface technologies.
 
-> Repository for tools to simplify Human-Interface Technologies (HIT) - “simplifyhit”™
+![License: GPL‑2.0](https://img.shields.io/badge/license-GPL--2.0-blue)
 
 ---
 
@@ -38,3 +38,10 @@
 
 ---
 
+## Get Started  
+See individual module folders or visit:
+
+- 📄 [VISION](./VISION.md) 
+- 📄 [ROADMAP](./ROADMAP.md) 
+
+© 2021–2025 nmc‑costa | Last updated: July 1, 2025
