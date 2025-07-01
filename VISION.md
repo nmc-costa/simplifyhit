@@ -4,7 +4,7 @@
 
 ## Vision
 
-Empower teams to build and simplify human-interface technologies.
+Empower teams/individuals to build and simplify human-interface technologies.
 
 ## Mission
 
@@ -18,14 +18,3 @@ Provide lightweight toolkits, clear guidelines that simplify prototyping, develo
 
 - Reuasibility: "Simplification before Optimization".
 
-
-## Roadmap
-
-v1.0 Launch (Q1 2021): Core component library + starter templates.
-
-Ongoing: 
-- Landing page.
-- Theming system and documentation portal.
-- User feedback loops and regular updates.
-
-Last updated: July 1, 2025
