@@ -39,7 +39,7 @@
 ---
 
 ## Get Started  
-See individual module folders or visit:
+See individual module folders and visit:
 
 - 📄 [VISION](./VISION.md) 
 - 📄 [ROADMAP](./ROADMAP.md) 
