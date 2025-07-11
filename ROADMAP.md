@@ -1,5 +1,5 @@
 © 2021 nmc-costa. All Rights Reserved.
-“simplifyhit”™ is a trademark of nmc-costa.
+simplifyhit™ is a trademark of nmc-costa.
 
 # Roadmap
 
@@ -8,7 +8,7 @@
 
 ## Ongoing
 - Develop and refine the landing page
-- Collect user feedback and iterate quickly
+- Collect user feedback and iterate 
 - Maintain regular updates and support
 
 _last updated: July 1, 2025_
