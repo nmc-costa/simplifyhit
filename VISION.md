@@ -1,5 +1,5 @@
 © 2021 nmc‑costa. All Rights Reserved.
-“simplifyhit”™ is a trademark of nmc‑costa.
+simplifyhit™ is a trademark of nmc‑costa.
 
 # simplifyhit: Vision & Roadmap
 
