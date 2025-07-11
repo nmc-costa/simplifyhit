@@ -53,7 +53,7 @@ We value the support of our community in advancing simple human interface techno
 - **Contact Services**: For custom simplifyhit™ in your business, [linkedin](linkedin.com/in/nuno-m-c-da-costa-a14a4349).
 
 - **GitHub Sponsors**: Support simplifyhit™ projects through GitHub Sponsors and help us maintain its quality and accessibility. Visit our [GitHub Sponsors](https://github.com/sponsors/simplifyhit) page to explore sponsorship options. 
-)
+
 
 - **Patreon**: Show your commitment by becoming a patron on [Patreon](https://www.patreon.com/simplifyhit).
 
