@@ -42,6 +42,36 @@ simplifyhit™ is a trademark of nmc-costa.
 See individual module folders and visit:
 
 - 📄 [VISION](./VISION.md) 
-- 📄 [ROADMAP](./ROADMAP.md) 
+- 📄 [ROADMAP](./ROADMAP.md)
 
-© 2021–2025 nmc‑costa | Last updated: July 1, 2025
+
+## Join the Community
+
+Connect with fellow data science and engineering enthusiasts, and be part of the community. Share your experiences, ask questions, and stay up-to-date with the latest advancements in collaborative coding.
+
+- Use [issues](https://github.com/nmc-costa/simplifyhit/issues) to engage in discussions and seek support.
+
+- Make [pull requests](https://github.com/nmc-costa/simplifyhit/pulls) to share your insights and improvements to enhance the codebase further.
+
+
+
+## Sponsorship
+
+Currently being tested in large projects.
+
+We value the support of our community in advancing collaborative data science and engineering. If you believe in the mission of simplifyhit™ and would like to contribute to its development and maintenance, consider becoming a sponsor os contact us for custom services. Your support enables us to enhance the codebase, expand our resources, and provide ongoing support to the community.
+
+- **Contact Services**: For custom HIcode in your business, [linkedin](linkedin.com/in/nuno-m-c-da-costa-a14a4349).
+
+<!--
+- **Patreon**: Show your commitment by becoming a patron on [Patreon](https://www.patreon.com/simplifyhit). *TODO*
+
+- **Open Collective**: Contribute to simplifyhit™ sustainability by sponsoring us on [Open Collective](https://opencollective.com/simplifyhit). Your donations help us cover project-related expenses and support ongoing improvements.*TODO*
+
+- **GitHub Sponsors**: Support simplifyhit™ projects through GitHub Sponsors and help us maintain its quality and accessibility. Visit our [GitHub Sponsors](https://github.com/sponsors/simplifyhit) page to explore sponsorship options. *TODO*
+)
+-->
+Your sponsorship not only assists in driving the development of simplifyhit™ projects but also ensures their availability as free and open-source resources for the wider community. We are immensely grateful for your support!
+
+
+© 2021–2025 nmc‑costa | Last updated: July 2025
