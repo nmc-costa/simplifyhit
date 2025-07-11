@@ -4,7 +4,7 @@ simplifyhit™ is a trademark of nmc-costa.
 
 # **simplifyhit**
 
-> Repository for tools of  “simplifyhit”™ :  Empower teams and individuals to build and simplify Human- Interface Technologies.
+> Repository for tools of  simplifyhit™ :  Empower teams and individuals to build and simplify Human- Interface Technologies.
 
 ![License: GPL‑2.0](https://img.shields.io/badge/license-GPL--2.0-blue)
 
