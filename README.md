@@ -57,8 +57,6 @@ Connect with fellow data science and engineering enthusiasts, and be part of the
 
 ## Sponsorship
 
-Currently being tested in large projects.
-
 We value the support of our community in advancing collaborative data science and engineering. If you believe in the mission of simplifyhit™ and would like to contribute to its development and maintenance, consider becoming a sponsor os contact us for custom services. Your support enables us to enhance the codebase, expand our resources, and provide ongoing support to the community.
 
 - **Contact Services**: For custom HIcode in your business, [linkedin](linkedin.com/in/nuno-m-c-da-costa-a14a4349).
